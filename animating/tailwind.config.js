@@ -12,9 +12,6 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
-      as:{
-        "background-color": "blue"
-      },
       keyframes: {
         "spin-images": {
           from: { transform: 'perspective(1000px) rotateX(-16deg) rotateY(0deg)' },
